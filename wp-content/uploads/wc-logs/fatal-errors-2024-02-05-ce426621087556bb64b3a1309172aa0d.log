@@ -1,0 +1,45 @@
+2024-02-05T15:39:49+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app./../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app\RtTpg.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\the-post-grid.php(31): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2318): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(663): plugin_sandbox_scrape('the-post-grid/t...')
+#3 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('the-post-grid/t...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app\RtTpg.php on line 13
+
+2024-02-05T15:42:54+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app./../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app\RtTpg.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\the-post-grid.php(31): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2318): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(663): plugin_sandbox_scrape('the-post-grid/t...')
+#3 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('the-post-grid/t...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app\RtTpg.php on line 13
+
+2024-02-05T15:43:43+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app./../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app\RtTpg.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\the-post-grid.php(31): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2318): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(663): plugin_sandbox_scrape('the-post-grid/t...')
+#3 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('the-post-grid/t...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app\RtTpg.php on line 13
+
+2024-02-05T15:44:36+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app./../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app\RtTpg.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\the-post-grid.php(31): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2318): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(663): plugin_sandbox_scrape('the-post-grid/t...')
+#3 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('the-post-grid/t...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app\RtTpg.php on line 13
+
+2024-02-05T15:45:59+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app./../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app\RtTpg.php:13
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\the-post-grid.php(31): require_once()
+#1 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(2318): include_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php(663): plugin_sandbox_scrape('the-post-grid/t...')
+#3 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(58): activate_plugin('the-post-grid/t...', 'http://localhos...', false)
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\the-post-grid\app\RtTpg.php on line 13
+
